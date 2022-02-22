@@ -45,6 +45,7 @@ div {
 }
 h1 { 
     font-family:"source serif 4";
+    font-weight: 500;
     font-size: 80px;
     font-weight: normal;
     padding-top: 100px;
@@ -57,6 +58,7 @@ h1 {
 
 h2 {
     font-family:"source serif 4";
+    font-weight: 500;
     font-size: 55px;
     font-weight: normal;
     padding-top: 75px;
@@ -71,7 +73,8 @@ h3 {
 
 p {
     color: white;
-    font-family: 'Source Serif 4', sans-serif;
+    font-family: "source serif 4";
+    font-weight: 300;
 }
 
 
