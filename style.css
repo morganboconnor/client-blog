@@ -35,8 +35,7 @@ main {
 
 
 div {
-    background: url("tree of life.jpg") no-repeat top fixed ;
-    background-image: 20px;
+    background-image: url("tree of life.jpg") no-repeat top fixed ;
     background-size: cover;
     position: center;
     padding: 75px 0 0 20px; 
@@ -81,6 +80,7 @@ p {
 
 a {
     position:center;
+    display:inline-block;
     color: white;
     background: grey;
     text-align: center;
